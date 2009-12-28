@@ -1,0 +1,17 @@
+# This is the CURRENT and maintained things of things do do. Please Add
+
+= Summary =
+
+ * *Editor* - functional with syntax highlighting, saving and opening files needs polishing
+ * *Autocomplete* - working, but needs to RTFM a bit more for double entries/overloaded
+
+== Code Editor ==
+
+  * *Save File* - works, but needs checks dor existing, changes , dir gone etc.
+  * *Config and Customise" - need to be able to set colors and fonts also initial config
+  
+== AutoComplete ==
+
+  * *Functions* - eliminate double etnries
+  * Autoload functions on demans eg #include servo would load servo api
+  * Keywords.yaml need doing
