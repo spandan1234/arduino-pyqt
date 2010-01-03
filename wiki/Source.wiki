@@ -1,0 +1,4 @@
+= Getting the source =
+
+Goto
+http://github.com/nick125/ArduinoIDE-PyQt/
